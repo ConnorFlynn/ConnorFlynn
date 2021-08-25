@@ -1,6 +1,6 @@
 ### Hi, I'm Connor 👋
 - 🌱 I’m currently studing Environmetal Data Science at the Bren School of Environmental Science & Management, UCSB
-- ⚡ I strive to use data science to help solve environmental challenges
+- ⚡ I am learning to utilize data science in solving environmental challenges
 - 📫 I live in Honolulu, Hawaii
 - 💬 Reach me at connorflynn@ucsb.edu
 
