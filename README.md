@@ -1,6 +1,6 @@
 ### Hi, I'm Connor 👋
+- ⚡ I am a data analyst at Chaminade University of Honolulu, Hawaii
 - 🌱 I’m currently studying Environmetal Data Science at the Bren School of Environmental Science & Management, UCSB
-- ⚡ I am learning to utilize data science in solving environmental challenges
 - 📫 I live in Honolulu, Hawaii
 - 💬 Reach me at connorflynn@ucsb.edu
 
