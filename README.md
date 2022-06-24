@@ -1,8 +1,8 @@
 ### Hi, I'm Connor 👋
 - ⚡ I am a data analyst at Chaminade University of Honolulu, Hawaii
-- 🌱 I’m currently earning a Mater's degree in Environmetal Data Science at the Bren School of Environmental Science & Management, UCSB
+- 🌱 I earned a Mater's degree in Environmetal Data Science at the Bren School of Environmental Science & Management, UCSB
 - 📫 I live in Honolulu, Hawaii
-- 💬 Reach me at connorflynn@ucsb.edu
+- 💬 Reach me at connor.flynn@chaminade.edu
 
 <!--
 
