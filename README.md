@@ -1,5 +1,5 @@
 ### Hi, I'm Connor 👋
-- ⚡ I am a Data Scientist for [United Nations CIFAL Honolulu](https://unitar.org/about/offices-training-centres-around-world/cifal-honolulu) & the Undergradaute Research Coordinator for the [NSF ALL-SPICE Alliance](https://www.nsfspicealliance.org/)
+- ⚡ I am a Data Scientist for [United Nations CIFAL Honolulu](https://unitar.org/about/offices-training-centres-around-world/cifal-honolulu) & the Education Director for the [NSF ALL-SPICE Alliance](https://www.nsfspicealliance.org/)
 - 🌱 I have a Master's degree in Environmetal Data Science from the Bren School of Environmental Science & Management, UCSB
 - 📫 I live in Honolulu, Hawaii 
 - 💬 Reach me at connor.flynn@chaminade.edu
